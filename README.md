@@ -1,7 +1,7 @@
 # whoami-2025 JSC370
 You need to make a fork of this repository, and replace your name in the list below with your GitHub, following this format:
 
-@username Something about you
+[**@Sophiaaa12**](https://github.com/Sophiaaa12) My name is Siyi Zhu. I love yoga and dancing. My recent favorite song is Try Everything.
 
 For example:
 
