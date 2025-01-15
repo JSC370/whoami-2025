@@ -26,3 +26,5 @@ I play League
 
 [**@tatDennis**](https://github.com/tatDennis) My name is Dennis. I like playing TFT and listening to music. 
 
+[**@KFPTartman**](https://github.com/KFPTartman) Hi my name is Kenta Ploch. I like doing music production and listening to music in general.
+I like listening to EDM, specifically future bass. My favorite artist is Seven Lions. 
