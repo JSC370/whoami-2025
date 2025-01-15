@@ -1,7 +1,11 @@
 # whoami-2025 JSC370
-You need to make a fork of this repository, and replace your name in the list below with your GitHub, following this format:
 
-@username Something about you
+[**@TonyYu123456**](https://github.com/TonyYu123456) I'm from China and I love playing football.
+
+[**@tirangol**](https://github.com/tirangol) I like sushi and playing piano. I hate LaTeX. <img src='https://media.tenor.com/LVeZa0OwoVgAAAAM/shock-shocked.gif' alt='gif' width='200px'>
+
+[**@Sophiaaa12**](https://github.com/Sophiaaa12) My name is Siyi Zhu. I love yoga and dancing. My recent favorite song is Try Everything.
+
 
 For example:
 
@@ -12,5 +16,9 @@ You can grab the image of your profile picture from your GitHub account. Like an
 Once you are done, submit a Pull Request to include your information in the original repository.
 
 
+
 [**@Kaiwen Zhang**] https://github.com/gabatree
 I play League
+
+[**@tatDennis**](https://github.com/tatDennis) My name is Dennis. I like playing TFT and listening to music. 
+
