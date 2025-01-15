@@ -12,4 +12,4 @@ You can grab the image of your profile picture from your GitHub account. Like an
 Once you are done, submit a Pull Request to include your information in the original repository.
 
 [**@CuriousChum**](https://github.com/CuriousChum)
-I like playing badminton and reading.
+My name is Louis Ryan Tan, I am from Indonesia. I like playing badminton and reading.
