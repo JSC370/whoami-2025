@@ -1,7 +1,7 @@
 # whoami-2025 JSC370
 You need to make a fork of this repository, and replace your name in the list below with your GitHub, following this format:
 
-@username Something about you
+@richrichierich I like skipping morning lectures.
 
 For example:
 
