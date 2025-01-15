@@ -1,6 +1,0 @@
-commit 3197a02dee9a7cae426a2f453b86f439d3009649
-Author: Anthony Wang <anthonywang@MacBook-Pro-4.local>
-Date:   Wed Jan 15 13:54:22 2025 -0500
-
-    modify readme
-
