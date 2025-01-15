@@ -1,7 +1,7 @@
 # whoami-2025 JSC370
 You need to make a fork of this repository, and replace your name in the list below with your GitHub, following this format:
 
-@username Something about you
+@nehmat-kaur I am Harnehmat Kaur, and I'm a 3rd year student here at UofT. Apart from my major, I am also quite interested in the study of religion and philosophy!
 
 For example:
 
