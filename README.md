@@ -1,7 +1,10 @@
 # whoami-2025 JSC370
+
 You need to make a fork of this repository, and replace your name in the list below with your GitHub, following this format:
 
 @username Something about you
+
+[**@kaixiwang**](https://github.com/OulinG138) I like Arcane. My favourite character is Caitlyn 🍰. <img src="https://imgur.com/a/nkTeKID" alt="poppy" width="200px">
 
 For example:
 
