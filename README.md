@@ -2,7 +2,6 @@
 
 You need to make a fork of this repository, and replace your name in the list below with your GitHub, following this format:
 
-For example:
 
 [**@jenydu**](https://github.com/jenydu) I like Animal Crossing. My favourite villager is Poppy 🍂🐿️. <img src="https://preview.redd.it/f79f0cv1o7j51.jpg?auto=webp&s=1e572edf80d0eba0c35c77c3c81231d9e626d366" alt="poppy" width="200px">
 
@@ -28,3 +27,5 @@ I play League
 
 [**@KFPTartman**](https://github.com/KFPTartman) Hi my name is Kenta Ploch. I like doing music production and listening to music in general.
 I like listening to EDM, specifically future bass. My favorite artist is Seven Lions. 
+
+[**@timothym4r**](https://github.com/timothym4) I am from Jakarta, love sleeping all day. I have a huge interest in computer vision, NLP, and deep learning.  <img src="peci-patrick.jpg" width="800px">
