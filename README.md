@@ -10,3 +10,6 @@ For example:
 You can grab the image of your profile picture from your GitHub account. Like any other markdown document, you can add links, images, even emojis 🍋🍰🐸
 
 Once you are done, submit a Pull Request to include your information in the original repository.
+
+## Answer:
+[**@AfraAd**](https://github.com/AfraAd) I like history and I am trying to maintained a consistent exercise schedule this semester. ![My Bitmoji Avatar](./Images/bitmoji.png)
