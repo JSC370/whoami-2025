@@ -4,7 +4,7 @@ You need to make a fork of this repository, and replace your name in the list be
 
 @username Something about you
 
-[**@kaixiwang**](https://github.com/OulinG138) I like Arcane. My favourite character is Caitlyn 🍰. <img src="https://imgur.com/a/nkTeKID" alt="poppy" width="200px">
+[**@kaixiwang**](https://github.com/OulinG138) I like Arcane. My favourite character is Caitlyn 🍰. <a href="https://imgur.com/EyJl3T9"><img src="https://i.imgur.com/EyJl3T9.jpg" title="source: imgur.com" width="200px" /></a>
 
 For example:
 
