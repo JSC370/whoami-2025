@@ -10,3 +10,5 @@ For example:
 You can grab the image of your profile picture from your GitHub account. Like any other markdown document, you can add links, images, even emojis 🍋🍰🐸
 
 Once you are done, submit a Pull Request to include your information in the original repository.
+
+[**@JanisJ2**](https://github.com/JanisJ2) I play Genshin, Star Rail, and Wuthering Waves right now. I went to Japan last winter break with my friend Louis and here's a picture of him. <img src="https://drive.google.com/file/d/1jYjujIPZBzEZwDlqNQuFbRcErsk48HAA/view?usp=sharing" alt="poppy", width="200px">
