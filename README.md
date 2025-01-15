@@ -1,5 +1,7 @@
 # whoami-2025 JSC370
-You need to make a fork of this repository, and replace your name in the list below with your GitHub, following this format:
+
+
+[**@tirangol**](https://github.com/tirangol) I like sushi and playing piano. I hate LaTeX. <img src='https://media.tenor.com/LVeZa0OwoVgAAAAM/shock-shocked.gif' alt='gif' width='200px'>
 
 [**@Sophiaaa12**](https://github.com/Sophiaaa12) My name is Siyi Zhu. I love yoga and dancing. My recent favorite song is Try Everything.
 
