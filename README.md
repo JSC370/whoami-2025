@@ -10,6 +10,9 @@ You can grab the image of your profile picture from your GitHub account. Like an
 
 Once you are done, submit a Pull Request to include your information in the original repository.
 
+
+[**@Avi04w**](https://github.com/avi04w) Hi, my name is Avi, I love playing and watching basketball.
+
 [**@TonyYu123456**](https://github.com/TonyYu123456) I'm from China and I love playing football.
 
 [**@tirangol**](https://github.com/tirangol) I like sushi and playing piano. I hate LaTeX. <img src='https://media.tenor.com/LVeZa0OwoVgAAAAM/shock-shocked.gif' alt='gif' width='200px'>
