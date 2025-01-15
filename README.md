@@ -11,4 +11,4 @@ You can grab the image of your profile picture from your GitHub account. Like an
 
 Once you are done, submit a Pull Request to include your information in the original repository.
 
-@Newtella3105 I am from Bandung, Indonesia.
+@Newtella3105 I am from Bandung, Indonesia. I like playing video games, currently playing Wild Rift. 
