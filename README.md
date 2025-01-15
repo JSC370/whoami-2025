@@ -12,5 +12,4 @@ You can grab the image of your profile picture from your GitHub account. Like an
 Once you are done, submit a Pull Request to include your information in the original repository.
 
 
-[**@gabatree**] https://github.com/gabatree
-Kaiwen Zhang
+[**@Kaiwen Zhang**] https://github.com/gabatree
