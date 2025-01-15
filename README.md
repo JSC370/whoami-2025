@@ -10,3 +10,5 @@ For example:
 You can grab the image of your profile picture from your GitHub account. Like any other markdown document, you can add links, images, even emojis 🍋🍰🐸
 
 Once you are done, submit a Pull Request to include your information in the original repository.
+
+Hi, my name is Omina! I am from Uzbekistan and I love traveling.
