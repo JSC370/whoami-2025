@@ -1,7 +1,7 @@
 # whoami-2025 JSC370
 You need to make a fork of this repository, and replace your name in the list below with your GitHub, following this format:
 
-@username Something about you
+[**@Maveluke**](https://github.com/Maveluke) I like playing badminton. Feel free to shoot me a message if you are interested in playing together🏸.   
 
 For example:
 
