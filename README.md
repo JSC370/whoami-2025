@@ -9,4 +9,10 @@ For example:
 
 You can grab the image of your profile picture from your GitHub account. Like any other markdown document, you can add links, images, even emojis 🍋🍰🐸
 
+
+[**@cyn900**](https://github.com/cyn900) I like bubble tea. My favourite order is mango lychee green tea with coconut jelly 30% sugar less ice. 
+<img src="https://chatime.ca/wp-content/uploads/2019/04/Mango-Green-Tea.png" alt="bubble tea" width="200px">
+
+You can grab the image of your profile picture from your GitHub account. Like any other markdown document, you can add links, images, even emojis 🍋🍰🐸
+
 Once you are done, submit a Pull Request to include your information in the original repository.
