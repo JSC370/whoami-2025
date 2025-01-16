@@ -36,3 +36,5 @@ I like listening to EDM, specifically future bass. My favorite artist is Seven L
 
 [**@elidle**](https://github.com/elidle) Hi everyone my name is Razan and I like instant noodles. This is a photo of my friend Louis I took when we went to Tokyo during winter break.
 <img src="https://cdn.discordapp.com/attachments/673403330587787315/1329160911247900803/WhatsApp_Image_2025-01-15_at_13.38.12_40608815.jpg?ex=6789550f&is=6788038f&hm=a065e6da83ce7ac0ac1d64f3d6610ce8f857da27beb1ae289f29cf3e2fdf3644&" alt="yongers" width="200px">
+
+[**@e1444**](https://github.com/e1444) My name is Eric, and I like playing Balatro.
